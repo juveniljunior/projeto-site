@@ -5,10 +5,11 @@
 
 body {
     background-color: rgb(204, 157, 248);
+    
 }
 
 main {
-    background-color: rgb(240, 157, 49);
+    background-color: white
     width: 500px;
     margin: auto;
     padding: 10px;
